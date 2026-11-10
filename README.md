@@ -30,6 +30,6 @@ Built with **Laravel 11 + Vue 3 + Inertia.js + Tailwind CSS**, using PostgreSQL 
 | Sales | sales@demo.com |
 | Warehouse | warehouse@demo.com |
 
----
+
 
 
