@@ -21,15 +21,3 @@ Built with **Laravel 11 + Vue 3 + Inertia.js + Tailwind CSS**, using PostgreSQL 
 4. **Thin controllers, fat services** (`app/Services`), validation in controllers, authorisation by role middleware.
 5. **Soft deletes** on products, customers, suppliers so history never breaks.
 6. **Database-agnostic code** (no enums, grouping done in PHP) - works on Postgres, MySQL and SQLite.
-
-## Demo logins (password for all: `password`)
-
-| Role | Email |
-|---|---|
-| Admin | admin@demo.com |
-| Sales | sales@demo.com |
-| Warehouse | warehouse@demo.com |
-
-
-
-
